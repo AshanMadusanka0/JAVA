@@ -1,0 +1,6 @@
+public class NameAndDegree {
+    public static void main(String[] args) {
+        System.out.println("E.G Ashan Madusanka Edirisinghe");
+        System.out.println("Bsc(Hons)Computer Science");
+    }
+}
